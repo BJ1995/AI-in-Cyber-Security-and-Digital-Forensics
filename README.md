@@ -1,0 +1,2 @@
+This repository contains machine learning and AI scripts used to train and evaluate datasets for cybersecurity and digital forensics tasks such as intrusion detection, malware classification, network traffic analysis, and forensic artifact classification.
+This project focuses on applying machine learning and deep learning techniques to cybersecurity and digital forensics datasets. The scripts in this repository include data preprocessing, feature engineering, model training, evaluation, and visualization.
